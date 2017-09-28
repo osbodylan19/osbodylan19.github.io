@@ -1,2 +1,2 @@
 # Dylan Osborn
-http://www.osbodylan19.github.io/cali-index.com
+[California Indices Map](http://www.osbodylan19.github.io/cali-index.com)

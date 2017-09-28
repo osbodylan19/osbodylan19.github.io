@@ -87,8 +87,16 @@ h1 {
 
   font-size: 30px;
   font-family: sans-serif;
-  
+
   text-align: center;
+}
+h2 {
+  color: #fff;
+  font-size: 25px;
+  font-family: sans-serif;
+  position: relative;
+  left: 150px;
+  top: 0px;
 }
 .dropdown {
     position: absolute;

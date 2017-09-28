@@ -1,2 +1,2 @@
 # Dylan Osborn
-(# osbodylan19.github.io/cali-index)
+http://www.osbodylan19.github.io/cali-index.com

@@ -96,7 +96,7 @@ h2 {
   font-family: sans-serif;
   position: relative;
   left: 150px;
-  top: 0px;
+  top: 30px;
 }
 
 h3 {
@@ -104,11 +104,21 @@ h3 {
   font-size: 25px;
   font-family: sans-serif;
   position: relative;
-  left: 500px;
-  top: 0px;
+  left: 1300px;
+  top: -300px;
 
 }
-.dropdown {
+h4{
+  color: #212F3D;
+  font-size: 25px;
+  position: relative;
+  left: 150px;
+}
+#pic {
+  left: 0px;
+
+}
+/*.dropdown {
     position: absolute;
     top: 30px;
     left: 40px;
@@ -141,18 +151,18 @@ option {
     padding: 0;
     display: inline-block;
     line-height: 1em;
-}
-.div {
+}*/
+/*.div {
   display: inline-block;
   width: 150px;
-}
+}*/
 #panel2 {
     padding: 10px;
-    height: 300px;
+    height: 200px;
     width: 30%;
     right: 50px;
     position: fixed;
-    bottom: 265px;
+    top: 500px;
     float: right;
     display: inline-block;
     line-height: 2.0em;
@@ -168,11 +178,11 @@ option {
 }
 #panel {
     padding: 10px;
-    height: 100px;
+    height: 350px;
     width: 30%;
     left: 50px;
     position: fixed;
-    bottom: 265px;
+    top: 500px;
     float: right;
     display: inline-block;
     line-height: 2.0em;

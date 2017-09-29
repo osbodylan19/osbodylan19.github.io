@@ -91,7 +91,7 @@ h1 {
   text-align: center;
 }
 h2 {
-  color: #999;
+  color: #212F3D;
   font-size: 25px;
   font-family: sans-serif;
   position: relative;
@@ -99,7 +99,7 @@ h2 {
   top: 0px;
 }
 h3 {
-  color: #999;
+  color: #212F3D;
   font-size: 25px;
   font-family: sans-serif;
   position: relative;
@@ -146,8 +146,8 @@ option {
 }
 #panel {
     padding: 10px;
-    height: 40px;
-    width: 45.6%;
+    height: 100px;
+    width: 30%;
     right: 23px;
     position: fixed;
     bottom: 265px;
@@ -166,9 +166,9 @@ option {
 }
 #panel2 {
     padding: 10px;
-    height: 40px;
-    width: 45.6%;
-    right: 35px;
+    height: 100px;
+    width: 30%;
+    left: 23px;
     position: fixed;
     bottom: 265px;
     float: right;

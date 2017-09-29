@@ -144,7 +144,7 @@ option {
   display: inline-block;
   width: 150px;
 }
-/*#panel {
+#panel {
     padding: 10px;
     height: 40px;
     width: 45.6%;
@@ -163,11 +163,24 @@ option {
 
 
 
-}*/
-html {
-  background: url(images/lab5_Osborn.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+}
+#panel2 {
+    padding: 10px;
+    height: 40px;
+    width: 45.6%;
+    right: 23px;
+    position: fixed;
+    bottom: 265px;
+    float: right;
+    display: inline-block;
+    line-height: 2.0em;
+    border: medium solid #999;
+    text-align: justify;
+    line-height: 120%;
+    background-color: rgba(128,128,128,.2);
+    opacity: 80%;
+    font-size: 12px;
+
+
+
 }

@@ -102,9 +102,12 @@ h3 {
   color: #212F3D;
   font-size: 25px;
   font-family: sans-serif;
-  position: relative;
-  left: 150px;
+  
+  right: 150px;
   top: 0px;
+  position: fixed;
+  bottom: 265px;
+
 }
 .dropdown {
     position: absolute;
@@ -146,9 +149,9 @@ option {
 }
 #panel {
     padding: 10px;
-    height: 100px;
+    height: 300px;
     width: 30%;
-    right: 23px;
+    right: 50px;
     position: fixed;
     bottom: 265px;
     float: right;
@@ -168,7 +171,7 @@ option {
     padding: 10px;
     height: 100px;
     width: 30%;
-    left: 23px;
+    left: 50px;
     position: fixed;
     bottom: 265px;
     float: right;

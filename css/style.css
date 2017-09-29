@@ -102,10 +102,10 @@ h3 {
   color: #212F3D;
   font-size: 25px;
   font-family: sans-serif;
-  
+  position: relative;
   right: 150px;
-  top: 0px;
-  position: fixed;
+
+
   bottom: 265px;
 
 }
@@ -147,7 +147,7 @@ option {
   display: inline-block;
   width: 150px;
 }
-#panel {
+#panel2 {
     padding: 10px;
     height: 300px;
     width: 30%;
@@ -167,7 +167,7 @@ option {
 
 
 }
-#panel2 {
+#panel {
     padding: 10px;
     height: 100px;
     width: 30%;

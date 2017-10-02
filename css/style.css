@@ -33,14 +33,16 @@ h4 {
 #resume {
   float: left;
   padding-top: 0px;
+  width:10%;
 
 }
 
 #email {
   float: left;
-  padding-right: 300px;
+  padding-left: 50px;
   padding-bottom: 0px;
   bottom: 100px;
+  width: 10%;
 
 }
 
@@ -70,7 +72,7 @@ h4 {
 #container {
   width: 100%;
   clear: both;
-  padding-left: 450px;
+  padding-left: 500px;
   padding-top: 0px;
 }
 
@@ -83,7 +85,7 @@ h4 {
 
 #bio {
   padding-top: 50px;
-  padding-left: 200px;
+  padding-left: 75px;
   font-size: 20px;
   width: 20%;
   float: left;

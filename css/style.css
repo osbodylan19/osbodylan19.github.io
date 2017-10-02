@@ -2,6 +2,7 @@
 
 /*dylan osborn porfolio*/
 h1 {
+  color: #000;
   font-size: 30px;
   font-family: sans-serif;
   text-align: center;
@@ -9,7 +10,7 @@ h1 {
 }
 /*Static Maps*/
 h2 {
-  color: #212F3D;
+  color: #000;
   font-size: 25px;
   font-family: sans-serif;
   left: 100px;
@@ -17,35 +18,37 @@ h2 {
 }
 /*Interactive Maps*/
 h3 {
-  color: #212F3D;
+  color: #000;
   font-size: 25px;
   font-family: sans-serif;
 }
 /*Dylan Osborn*/
 h4 {
-  color: #212F3D;
+  color: #000;
   font-size: 25px;
   line-height: 0px;
+  padding-left: 40px;
 }
 
 #resume {
   float: left;
+  padding-top: 0px;
 
 }
 
 #email {
   float: left;
+  padding-right: 300px;
+  padding-bottom: 0px;
+  bottom: 100px;
 
 }
 
 /*Interactive maps*/
 #panel2 {
-    padding: 40px;
+    padding-right: 250px;
     width: 30%;
-    float: left;
-    display: inline-block;
-    line-height: 2.0em;
-    line-height: 120%;
+    float: right;
 }
 
 #pic {
@@ -54,13 +57,10 @@ h4 {
 
 /*Static Maps*/
 #panel {
-
-    padding: 40px;
-    width: 50%;
+    padding-left: 200px;
+    /*padding: 40px;*/
+    width: 40%;
     float: left;
-    display: inline-block;
-    line-height: 120%;
-
 }
 #bodywrap {
   width: 100%;
@@ -70,10 +70,12 @@ h4 {
 #container {
   width: 100%;
   clear: both;
-
+  padding-left: 450px;
+  padding-top: 0px;
 }
 
 #container2 {
+  padding-top: 0px;
   width: 100%;
   clear: both;
 
@@ -81,7 +83,7 @@ h4 {
 
 #bio {
   padding-top: 50px;
-  padding-left: 100px;
+  padding-left: 200px;
   font-size: 20px;
   width: 20%;
   float: left;
